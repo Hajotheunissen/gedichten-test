@@ -15,14 +15,14 @@ h1 {
 	font-weight:normal;
 	padding-bottom:2.5em;
 	color:black;
-	font-size: 23px;
+	font-size: 25px;
 }
 
 P { 
 	font-weight:normal;
 	
 	color:black;
-	font-size: 19px;
+	font-size: 21px;
 }
 .nudged2space {
 position: relative;
@@ -50,7 +50,7 @@ h3 {
 	padding-bottom:94px;
 	padding-left:105px;
 	color:black;
-	font-size: 21px;
+	font-size: 23px;
 	position:relative;
 	top:7em
 }
@@ -75,11 +75,11 @@ h4 {
 
     h1 {
         padding-bottom: 2.5em;
-        font-size: 24px;
+        font-size: 26px;
     }
 
     P {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     h2 {

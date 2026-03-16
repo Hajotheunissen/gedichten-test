@@ -14,14 +14,14 @@ h1 {
 	font-weight:normal;
 	padding-bottom:6.7em;
 	color:black;
-	font-size: 27px;
+	font-size: 29px;
 }
 
-P { 
+P {
 	font-weight:normal;
 	text-decoration: none;
 	color:black;
-	font-size: 21px;
+	font-size: 23px;
 }
 .nudged2space {
 position: relative;
@@ -49,7 +49,7 @@ h3 {
 	padding-bottom:94px;
 	padding-left:105px;
 	color:black;
-	font-size: 21px;
+	font-size: 23px;
 	position:relative;
 	top:7em
 }
@@ -69,7 +69,7 @@ h6 {
 text-decoration:none;
 	padding-right:105px;
 	color:gray;
-	font-size: 11px;
+	font-size: 13px;
 
 }
 
@@ -83,11 +83,11 @@ text-decoration:none;
 
     h1 {
         padding-bottom: 3em;
-        font-size: 24px;
+        font-size: 26px;
     }
 
     P {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     h2 {
